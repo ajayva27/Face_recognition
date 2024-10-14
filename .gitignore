@@ -1,0 +1,6 @@
+face_env/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.ipynb
